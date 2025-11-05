@@ -1,0 +1,7 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://d34rvmpblmesk"]
+
+[resource]
+resource_name = "body"
+cull_mode = 2
+roughness = 0.5
+emission_enabled = true
